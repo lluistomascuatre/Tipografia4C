@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Cuatrecasas';
-    src: url('https://raw.githubusercontent.com/lluistomascuatre/Tipografia4C/main/cuatrecasastext-regular-webfont-subset.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/lluistomascuatre/Tipografia4C@main/cuatrecasastext-regular-webfont-subset.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Cuatrecasas';
-    src: url('https://raw.githubusercontent.com/lluistomascuatre/Tipografia4C/main/cuatrecasastext-regularitalic-webfont-subset.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/lluistomascuatre/Tipografia4C@main/cuatrecasastext-regularitalic-webfont-subset.woff2') format('woff2');
     font-weight: 400;
     font-style: italic;
     font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: 'Cuatrecasas';
-    src: url('https://raw.githubusercontent.com/lluistomascuatre/Tipografia4C/main/cuatrecasastext-bold-webfont-subset.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/lluistomascuatre/Tipografia4C@main/cuatrecasastext-bold-webfont-subset.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
     font-family: 'Cuatrecasas';
-    src: url('https://raw.githubusercontent.com/lluistomascuatre/Tipografia4C/main/cuatrecasastext-bolditalic-webfont-subset.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/lluistomascuatre/Tipografia4C@main/cuatrecasastext-bolditalic-webfont-subset.woff2') format('woff2');
     font-weight: 700;
     font-style: italic;
     font-display: swap;
